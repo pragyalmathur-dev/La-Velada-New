@@ -4,3 +4,8 @@ Images should be named like:
 - Ground Floor Without Dimension: 01_V_GF_WOD.pdf, 12_V_GF_WOD.pdf, etc.
 - First Floor With Dimension: 01_V_FF_WD.pdf, 12_V_FF_WD.pdf, etc.
 - First Floor Without Dimension: 01_V_FF_WOD.pdf, 12_V_FF_WOD.pdf, etc.
+
+Apartment floor plans assets will be named like:
+- Block A With Dimension: A_A_01.png, A_A_204.png, etc.
+- Block B With Dimension: B_A_04.png, B_A_301.png, etc.
+- Block C With Dimension: C_A_03.png, C_A_202.png, etc.
